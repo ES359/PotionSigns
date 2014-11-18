@@ -1,0 +1,5 @@
+name: PotionSigns
+main: me.ES359.PotionSigns.Main
+version: 1.0
+description: Create potion signs, that gives you effects, or actual potions.
+author: ES359
